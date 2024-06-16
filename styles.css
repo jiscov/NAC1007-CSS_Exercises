@@ -1,0 +1,93 @@
+/* INTRODUCTION TO CSS SECTION */
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Exercise: Element Selector */
+replace_me {
+    font-weight: bold;
+}
+
+/* Exercise: Class Selector */
+.class-selector {
+}
+
+/* Exercise: ID Selector */
+#id-selector {
+   ???: ???;
+   ???: ???;
+}
+
+/* Exercise: Element Selector */
+replace_me, replace_me {
+   font-style: italic;
+   color: #007bff;
+}
+
+/* Exercise: Attribute Selector */
+.attribute-selector {
+   ???: ???;
+   ???: ???;
+}
+
+/* Exercise: Specificity Rules */
+???.box {
+    background-color: #007bff;
+    font-size: 14px;
+}
+.box {
+    background-color: #fb4d4d;
+    font-size: 24px;
+}
+
+/* BOX MODEL SECTION */
+
+/* Exercise #8: Box Model */
+.box-model {
+   ???: ???;
+   ???: ???;
+   ???: ???;
+}
+
+/* Exercise: Percentage Width and Height */
+.percentage-box {
+   ???: ???;
+   ???: ???;
+   ???: ???;
+}
+
+/* Exercise: Pixel Width and Height */
+.pixel-box {
+   ???: ???;
+   ???: ???;
+   ???: ???;
+}
+
+/* TYPOGRAPHY AND COLOR SECTION */
+
+/* Exercise: Font Properties */
+.font-properties {
+   ???: ???;
+   ???: ???;
+   ???: ???;
+   ???: ???;
+   ???: ???;
+}
+
+/* Exercise: Text Alignment and Decoration */
+.text-styles {
+   ???: ???;
+}
+.text-styles p {
+   ???: ???;
+}
+.text-styles h2 {
+   ???: ???;
+}
+
+/* Exercise: Color Properties */
+.color-properties {
+   ???: ???;
+   ???: ???;
+}

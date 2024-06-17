@@ -5,34 +5,35 @@ body {
 }
 
 /* Exercise: Element Selector */
-replace_me {
+replace me{
     font-weight: bold;
 }
 
 /* Exercise: Class Selector */
 .class-selector {
+   color:orangered
 }
 
 /* Exercise: ID Selector */
 #id-selector {
-   ???: ???;
-   ???: ???;
+   color:aquamarine;
+   font-style: italic;
 }
 
 /* Exercise: Element Selector */
-replace_me, replace_me {
+h3, h4{
    font-style: italic;
    color: #007bff;
 }
 
 /* Exercise: Attribute Selector */
 .attribute-selector {
-   ???: ???;
-   ???: ???;
+   color:green;
+   text-decoration: none;
 }
 
 /* Exercise: Specificity Rules */
-???.box {
+#box {
     background-color: #007bff;
     font-size: 14px;
 }
@@ -45,49 +46,51 @@ replace_me, replace_me {
 
 /* Exercise #8: Box Model */
 .box-model {
-   ???: ???;
-   ???: ???;
-   ???: ???;
+   margin: 20px;
+   padding: 15px;
+   border-style: solid;
+   border-color: black;
+   border-radius: 2px; 
 }
 
 /* Exercise: Percentage Width and Height */
 .percentage-box {
-   ???: ???;
-   ???: ???;
-   ???: ???;
+   width: 50%;
+   height: 50%;
+   background-color: #2200ff;
 }
 
 /* Exercise: Pixel Width and Height */
 .pixel-box {
-   ???: ???;
-   ???: ???;
-   ???: ???;
+   width: 200px;
+   height: 200px;
+   background-color: #f0f0f0;
 }
 
 /* TYPOGRAPHY AND COLOR SECTION */
 
 /* Exercise: Font Properties */
 .font-properties {
-   ???: ???;
-   ???: ???;
-   ???: ???;
-   ???: ???;
-   ???: ???;
+   font-family: 'Franklin Gothic';
+   font-size: 18px;
+   font-weight: bold;
+   line-height: 1.5;
+   color: #a90707;
 }
 
 /* Exercise: Text Alignment and Decoration */
 .text-styles {
-   ???: ???;
+   text-align: center;
 }
 .text-styles p {
-   ???: ???;
+   text-decoration: underline;
 }
 .text-styles h2 {
-   ???: ???;
+   text-transform: uppercase;
 }
 
 /* Exercise: Color Properties */
 .color-properties {
-   ???: ???;
-   ???: ???;
+   color: #05005e;
+   background-color: #f0f0f0;
 }
